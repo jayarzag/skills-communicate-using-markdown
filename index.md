@@ -5,3 +5,7 @@
 
 Code
 `var i = 0`
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
