@@ -4,4 +4,4 @@
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 Code
-´´´var i = 0´´´
+`var i = 0`
